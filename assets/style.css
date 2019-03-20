@@ -1,0 +1,63 @@
+
+div{
+	background-color: lightblue;
+	margin: 20px;
+	width: 25%;
+}
+div{
+	border: solid 5px black;
+	padding: 20px;
+}
+h1, span{
+	font-weight: bold;
+	text-align: center;
+}
+h1{
+	font-size: 30pt;
+}
+ol{
+	list-style: decimal inside; 
+}
+ul {
+	list-style: disc inside;
+	text-indent: 20px;
+}
+div.header, div.gems{
+	background-color: lightblue;
+}
+div.header, div.instructions{
+	width: 50%;
+}
+.Goal, .winloss{
+	float: center;
+	width: 15%;
+	height: 50px;
+}
+.Total{
+	width: 15%;
+	height: 50px;
+}
+.gems{
+    clear: both;
+    height: 50px;
+	margin: 10px;
+}
+#Blue{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#Green{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#Red{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+#Yellow{
+    max-width: 50px;
+    max-height: 50px;
+}
